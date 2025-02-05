@@ -1,0 +1,14 @@
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\bin\Debug\net9.0\KilkellyJA5.exe
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\bin\Debug\net9.0\KilkellyJA5.deps.json
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\bin\Debug\net9.0\KilkellyJA5.runtimeconfig.json
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\bin\Debug\net9.0\KilkellyJA5.dll
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\bin\Debug\net9.0\KilkellyJA5.pdb
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.AssemblyInfoInputs.cache
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.AssemblyInfo.cs
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.csproj.CoreCompileInputs.cache
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.dll
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\refint\KilkellyJA5.dll
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.pdb
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.genruntimeconfig.cache
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\ref\KilkellyJA5.dll
