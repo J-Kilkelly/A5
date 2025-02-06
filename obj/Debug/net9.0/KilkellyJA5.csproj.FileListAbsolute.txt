@@ -12,3 +12,4 @@ C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\refint
 C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.pdb
 C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.genruntimeconfig.cache
 C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\ref\KilkellyJA5.dll
+C:\Users\jkilk\OneDrive\SPC\CSharp 1 2360\A5\KilkellyJA5\obj\Debug\net9.0\KilkellyJA5.sourcelink.json

@@ -1,4 +1,10 @@
 ﻿namespace KilkellyJA5;
+/*
+John Kilkelly
+350439
+COP 2360
+Assignment 5: Reverse and Capitalize
+*/
 
 class Program
 {
@@ -6,7 +12,7 @@ class Program
     {
         A5 revString = new A5(); //new instance of the A5 class
         string output = revString.ReverseCapitalize("xyz");
-        Console.WriteLine(output);
+        Console.WriteLine($"The reversed and capitalized string is {output}.");
 
     }
 }
