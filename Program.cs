@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         A5 revString = new A5(); //new instance of the A5 class
-        string output = revString.ReverseCapitalize("abcdef");
+        string output = revString.ReverseCapitalize("xyz");
         Console.WriteLine(output);
 
     }
