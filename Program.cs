@@ -10,10 +10,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        A5 revString = new A5(); //new instance of the A5 class
-        string output = revString.ReverseCapitalize("xyz");
-        Console.WriteLine($"The reversed and capitalized string is {output}.");
+        Console.WriteLine(); //to create a space
+        Console.WriteLine("Input the string to be capitalized and reversed.");
+        string? input = Console.ReadLine(); //get user input
 
+        A5 revString = new A5(); //new instance of the A5 class
+        string output = revString.ReverseCapitalize(input); //ReverseCapitalize method of the A5 class; input is the argument to the initialString paramenter
+        Console.WriteLine($"The reversed and capitalized string is {output}.");
     }
 }
     public class A5

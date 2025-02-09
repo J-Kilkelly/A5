@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KilkellyJA5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3969aa8197a46aadecb27d71fbdb634c42d686e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11d225694ab9d824dd3f575a50e63a362effdca")]
 [assembly: System.Reflection.AssemblyProductAttribute("KilkellyJA5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KilkellyJA5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
